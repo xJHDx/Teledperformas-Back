@@ -3,6 +3,6 @@
  
 > Base de datos utilizada: Mongodb
  
-> Puerto base de datos mongodb: local 
+> Puerto base de datos mongodb: http://localhost:27017
  
-> Puerto de ejecucion del back: 9090
+> Puerto de ejecucion del back: http://localhost:9090/api
